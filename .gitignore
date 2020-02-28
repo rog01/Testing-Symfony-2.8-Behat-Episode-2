@@ -1,0 +1,13 @@
+/vendor
+/app/app.db
+/app/cache
+/web/bundles
+.idea/
+geckodriver.exe
+log.txt
+log.txt.lck
+mink.php
+nodeConfig.json
+selenium-server-standalone-3.141.59.jar
+shot.png
+hubConfig.json
